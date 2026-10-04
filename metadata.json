@@ -1,0 +1,6 @@
+{
+  "name": "Sales Analytics Dashboard",
+  "description": "A modern, professional sales analytics dashboard tracking performance, monthly trends, category breakdowns, and threshold targets from 2022 to 2024.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
